@@ -7,6 +7,9 @@
 
 <h1>Hello world!</h1>
 <p>This is the first file in my new Git Repo.</p>
+Sometimes, when you make small changes, using the staging environment seems like a waste of time. It is possible to commit changes directly, skipping the staging environment. The -a option will automatically stage every changed, already tracked file.
+
+Let's add a small update to index.html:
 
 </body>
 </html>
