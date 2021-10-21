@@ -12,5 +12,7 @@ Sometimes, when you make small changes, using the staging environment seems like
 Let's add a small update to index.html:
 xin chào
 Xin chào nhé. Lại đẩy code lên đây
+lêu lêu ? kêu lêu
+
 </body>
 </html>
